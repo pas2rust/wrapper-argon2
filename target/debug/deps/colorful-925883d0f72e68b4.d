@@ -1,0 +1,12 @@
+/home/pas/Desktop/git/wrapper-argon2/target/debug/deps/libcolorful-925883d0f72e68b4.rmeta: /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/lib.rs /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/mod.rs /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/colors.rs /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/symbols.rs /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/style.rs /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/color_string.rs /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/rgb.rs /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/hsl.rs
+
+/home/pas/Desktop/git/wrapper-argon2/target/debug/deps/colorful-925883d0f72e68b4.d: /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/lib.rs /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/mod.rs /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/colors.rs /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/symbols.rs /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/style.rs /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/color_string.rs /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/rgb.rs /home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/hsl.rs
+
+/home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/lib.rs:
+/home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/mod.rs:
+/home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/colors.rs:
+/home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/symbols.rs:
+/home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/style.rs:
+/home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/color_string.rs:
+/home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/rgb.rs:
+/home/pas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorful-0.2.2/src/core/hsl.rs:
