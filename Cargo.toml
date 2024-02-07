@@ -25,7 +25,7 @@ logo-url = "https://i.imgur.com/svdzGva.jpg"
 argon2 = { version = "0.5.3", features = ["std"] }
 chrono = "0.4.31"
 colorful = "0.2.2"
-darth-rust = "0.4.7"
+darth-rust = "0.8.2"
 serde = "1.0.195"
 serde_json = "1.0.111"
 

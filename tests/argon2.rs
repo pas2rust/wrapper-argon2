@@ -9,8 +9,8 @@ fn argon2_default_gen_hash_and_verify_password() {
     match verify {
         Ok(ok) => assert!(ok),
         Err(err) => {
-            wrapper.print_err();
-            assert!(false, "{}", err)
+            wrapper.print_err(err.as_str());
+            assert!(false)
         }
     };
 }

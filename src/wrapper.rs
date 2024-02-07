@@ -5,7 +5,7 @@ use argon2::{
 
 use darth_rust::DarthRust;
 
-#[derive(Debug, DarthRust)]
+#[derive(Debug, DarthRust, Clone)]
 pub struct WrapperArgon2 {
     pub password: String,
     pub hash: Option<String>,
